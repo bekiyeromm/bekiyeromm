@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...software engineering iat ALX and Msc in Computer Engineering at Deberemarkos university
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 how to reach me: bk3tena@gmail.com
-- youtube:beki yerom
+- youtube:https://www.youtube.com/channel/UC64xIrygGM3BMs4N73VXm5Q
 - linkedlin: https://www.linkedin.com/in/bereket-tena-43a171125/
 - twitter: @BereketTena1
 - 
