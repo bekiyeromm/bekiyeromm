@@ -9,10 +9,12 @@ I studied BSc in computer science from Debreberhan University.
 *   🧠  I'm learning software engineering at ALX and Msc in Computer Engineering at Deberemarkos university
 *   🤝  I'm open to collaborating on web development, DevOps, machine learning and video editing projects
 <a href="https://www.twitter.com/BereketTena1" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/BereketTena1?logo=twitter&style=for-the-badge&color=f97316&labelColor=134e4a"/></a>
-  ### Skills 
+  <img src="https://img.shields.io/twitter/follow/BereketTena1?logo=twitter&style=for-the-badge&color=f97316&labelColor=134e4a" /></a>
+    
+  ### Skills
+        
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -33,19 +35,34 @@ I studied BSc in computer science from Debreberhan University.
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
-                <p align="left">
+<p align="left">                    
+<a href="https://www.facebook.com/Lij Bereket Tena" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.facebook.com/Lij Bereket Tena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/bekiyeromm" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.github.com/bekiyeromm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/bereket-tena-43a171125" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/bereket-tena-43a171125" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/BereketTena1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/bekiyeromm"><img src="https://github-readme-stats.vercel.app/api?username=bekiyeromm&show_icons=true&hide=prs,issues,&title_color=84cc16&text_color=a855f7&icon_color=f97316&bg_color=134e4a&hide_border=true&show_icons=true" alt="bekiyeromm's GitHub stats" /></a><a
-                      href="http://www.github.com/bekiyeromm"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=bekiyeromm&stroke=a855f7&background=134e4a&ring=84cc16&fire=84cc16&currStreakNum=a855f7&currStreakLabel=84cc16&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a><a
-                      href="http://www.github.com/bekiyeromm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bekiyeromm&bg_color=134e4a&color=a855f7&line=f97316&point=a855f7&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/bekiyeromm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekiyeromm&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=f97316&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.twitter.com/BereketTena1" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+</a>
+</p>
+            
+ ### Badges
+            
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/bekiyeromm"><img src="https://github-readme-stats.vercel.app/api?username=bekiyeromm&show_icons=true&hide=prs,issues,&title_color=84cc16&text_color=a855f7&icon_color=f97316&bg_color=134e4a&hide_border=true&show_icons=true" alt="bekiyeromm's GitHub stats" >
+</a>
+<a href="http://www.github.com/bekiyeromm">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekiyeromm&stroke=a855f7&background=134e4a&ring=84cc16&fire=84cc16&currStreakNum=a855f7&currStreakLabel=84cc16&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" />
+</a>
+<a href="http://www.github.com/bekiyeromm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bekiyeromm&bg_color=134e4a&color=a855f7&line=f97316&point=a855f7&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+<a href="https://github.com/bekiyeromm" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekiyeromm&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=f97316&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
