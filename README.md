@@ -51,7 +51,6 @@ I studied BSc in computer science from Debreberhan University and MSC in compute
 <a href="https://www.twitter.com/BereketTena1" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a><br>
-[beki yerom](https://www.youtube.com/channel/UC64xIrygGM3BMs4N73VXm5Q)<br>
 </p>
             
  ### Badges
