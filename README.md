@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bereket Tena Temesgen
 =============================================================================================================================================
 
-I studied BSc in computer science from Debreberhan University and MSC in computer enginnering from Debremarkos university.
+I studied BSc in computer science from Debreberhan University and MSC in computer enginnering from Debremarkos university and 12 month full stack software engineering(specialization in back-end) from ALX Africa.
 
 *   🌍  I'm based in Ethiopia
 *   ✉️  You can contact me at [bk3tena@gmail.com](mailto:bk3tena@gmail.com)
 *   🚀  I'm currently working on [ICT @Debremarkos University](http://www.dmu.edu.et)
 *   🧠  I'm learning software engineering at ALX.
 *   🤝  I'm open to collaborating on web development, DevOps, machine learning and video editing projects
-*   🤝  I am familiar with python, C, C++, C#, HTML, CSS, Javascript, Express, Nodejs, Shell and Cpython
+*   🤝  I am familiar with python, C, C++, C#, HTML, CSS, bootstrap, Javascript, Express, Nodejs, redis, Shell, Flask, Jinja2 and Cpython
 <a href="https://www.twitter.com/BereketTena1" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/BereketTena1?logo=twitter&style=for-the-badge&color=f97316&labelColor=134e4a" /></a>
     
